@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+PyWavelets
+seaborn
+geopandas
+shapely
+folium
+ipywidgets
+jupyterlab
